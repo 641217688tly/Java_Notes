@@ -1,3 +1,4 @@
 zz
 begin first test
 hot-fix branches
+master conflict test
